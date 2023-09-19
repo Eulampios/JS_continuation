@@ -12,13 +12,13 @@ flex-wrap: wrap;
     transition: 0.2s;
     position: relative;
     margin-right: 5px;
-    padding: 5px;
+    margin: 5px;
   }
 
   .card__image {
     display: flex;
     justify-content: center;
-
+    padding-top: 10px;
   }
 
 .paragraph {
@@ -35,4 +35,5 @@ h5 {
   min-height: 90px;
   width: 225px;
   margin: auto;
+  margin-bottom: 5px;
 }
