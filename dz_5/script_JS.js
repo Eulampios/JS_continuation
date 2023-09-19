@@ -67,12 +67,4 @@ const paragCard = document.createElement('p');
 paragCard.classList.add('paragraph');
 divCont.appendChild(paragCard);
 paragCard.textContent = `Номер альбома: ${e.id}`;   
-
-
-
-
-
-
-
 })
-
