@@ -1,0 +1,39 @@
+.content {
+display: inline-flex;
+flex-wrap: wrap;
+}
+
+.card {
+    width: 250px;
+    min-height: 250px;
+    border: solid black 1px;
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    transition: 0.2s;
+    position: relative;
+    margin-right: 5px;
+    padding: 5px;
+  }
+
+  .card__image {
+    display: flex;
+    justify-content: center;
+
+  }
+
+.paragraph {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+.card__content {
+  margin: 0;
+  box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.2);
+  min-height: 90px;
+  width: 225px;
+  margin: auto;
+
+}
