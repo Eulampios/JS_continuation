@@ -1,0 +1,33 @@
+.content{
+    width: 1140px;
+    height: 1395px;
+    padding: 15px;
+}
+
+.h4{
+    display: block;
+    text-align: center;
+}
+
+.card {
+    width: 360px;
+    height: 587px;
+    box-shadow: 2px 2px 4px rgba(61, 105, 16, 0.5);
+    margin: 5px;
+    display: inline-block;
+    background-color: #f8f8f8;
+}
+
+.image {
+    width: 360px;
+    height: 420px;
+    }
+
+.price__text {
+    color: #F16D7F;
+    
+}
+
+.description {
+    color: #5D5D5D;
+}
