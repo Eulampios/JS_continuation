@@ -1,0 +1,108 @@
+.content{
+    width: 1140px;
+    min-height: 650px;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+
+.h4{
+    display: block;
+    text-align: center;
+}
+
+.card {
+    width: 360px;
+    height: 587px;
+    box-shadow: 2px 2px 4px rgba(61, 105, 16, 0.5);
+    margin: 5px;
+    display: inline-block;
+    background-color: #f8f8f8;
+}
+
+.image {
+    width: 360px;
+    height: 420px;
+    }
+
+.price__text {
+    color: #F16D7F;
+    
+}
+
+.description {
+    color: #5D5D5D;
+}
+
+.text__content {
+    display: flex;
+    flex-direction: row;
+    align-items: end ;
+    justify-content: space-between;
+}
+
+.text {
+margin: 15px;
+}
+
+.btn__div {
+    margin: 15px;
+}
+
+/* ========== КОРЗИНА =================== */
+
+
+.btn__close{
+    width: 18px;
+    height: 18px;
+    border: solid black 1px;
+    position: relative;
+    right: 15px;
+    top: 15px;
+    background-image: url(/dz_7/pic/Vector.png);
+
+}
+
+.cart__items{
+    display: flex;
+    flex-direction: row;
+    width: 590px;
+    height: 306px;
+    border: solid black 1px;
+    margin: 5px;
+}
+
+.img__cart{
+    margin-right: 25px;
+}
+
+.text__cont__cart{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    margin-top: 35px;
+}
+
+.header__cart{
+    text-align: center;
+    font-size: 30px;
+}
+
+.text__product{
+    margin-top: 35px;
+}
+
+.quan{
+    display:flex;
+    flex-direction:row;
+}
+
+input{
+    width: 30px;
+    height: 20px
+}
+
+.content__cart{
+    width: 610px;
+}
+
+
