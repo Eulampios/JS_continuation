@@ -1,6 +1,6 @@
 async function fetchData() {
     try {
-        const response = await fetch('./data.json');
+        const response = await fetch('/dz_7/data.json');
         if (!response.ok) {
             throw new Error('данные не получены')
         }
@@ -45,7 +45,7 @@ async function fetchData() {
 
 async function addCart() {
     try {
-        const response = await fetch('./data.json');
+        const response = await fetch('/dz_7/data.json');
         if (!response.ok) {
             throw new Error('данные не получены')
         }
