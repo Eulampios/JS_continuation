@@ -1,0 +1,25 @@
+<div class="cart__items">
+        <!-- картинка товара -->
+        <div class="img__cart">
+            <img style="max-height: 306px;" src="/pic/pic1.jpg" alt="">
+        </div>
+        <!-- описание товара + кнопка "закрыть" -->
+        <div class="text__cont__cart">
+            <!-- заголовок + описание товара -->
+            <div>
+                <div class="header__product">
+                    <p>MANGO  PEOPLE  T-SHIRT</p>
+                </div>
+                <div class="text__product">
+                    <p>price</p>
+                    <p>color</p>
+                    <p>size</p>
+                    <div class="quan">
+                        <div style="margin-right: 15px ;">quantity</div>
+                        <input type="text">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- кнопка "закрыть" -->
+        <div class="btn__close"></div>

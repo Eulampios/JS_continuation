@@ -1,0 +1,18 @@
+ <!-- карточка товара -->
+         <div class="card">
+            <!-- картинка товара -->
+            <div class="image">
+                <img src="/pic/pic1.jpg" alt="">
+            </div>
+            <!-- название, описание, цена, кнопка -->
+            <div class="text__content">
+                <div class="text">
+                    <div>название</div><br>
+                    <div>описание</div><br>
+                    <div>55$</div>
+                </div>
+                <div class="btn__div">
+                    <button class="btn">add cart</button>
+                </div>
+            </div>
+        </div>
